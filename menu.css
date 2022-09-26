@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Oswald&family=Roboto+Condensed&display=swap');
+
+* {
+    font-family: 'Oswald', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+#menu-h {
+    max-width: 800px;
+    list-style: none;
+    margin-left: 40px;
+    background-color: black;
+    
+}
+
+#menu-h ul li {
+    display: inline;
+
+}
+
+#menu-h ul li {
+    display: inline-block;
+    padding: 20px;
+    transition: background .4s;
+}
+
+#menu-h ul li {
+    background-color: blue;
+}
+
+#menu-h ul li:last-child {
+    float: right;
+}
+
+

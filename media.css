@@ -1,0 +1,17 @@
+
+@media (max-width: 1200px)
+    {
+        .text {
+            font-size: 25px;
+            color: red;
+
+        }
+}
+
+@media (max-width: 500px)
+    {
+        div {
+            background: blueviolet;
+
+        }
+}
